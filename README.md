@@ -1,6 +1,6 @@
 ### 博客
 
-<font color=#1cd1a6 size=60 face="Consolas">博客</font>
+<font color=#1cd1a6 size=6 face="Consolas">博客</font>
 
 ```
 ::::::::::::          ::::::::::          ::::::::::          ::::::::::          ::::::::::          ::::::::::::
