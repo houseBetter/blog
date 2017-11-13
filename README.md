@@ -1,5 +1,7 @@
 ### 博客
 
+<h4 style="color: #f00;">博客</h4>
+
 ```
 ::::::::::::          ::::::::::          ::::::::::          ::::::::::          ::::::::::          ::::::::::::
 ::::::::::::          ::::::::::          ::::::::::          ::::::::::          ::::::::::          ::::::::::::
@@ -13,6 +15,6 @@
 
 ## 2017
 
-:snake: [2017-11-13 | 嗟乎原型链](https://github.com/veedrin/blog/issues/2)
+<:snake:> [2017-11-13 | 嗟乎原型链](https://github.com/veedrin/blog/issues/2)
 
-:turtle: [2017-10-31 | 下一任国家主席预测](https://github.com/veedrin/blog/issues/1)
+<:turtle:> [2017-10-31 | 下一任国家主席预测](https://github.com/veedrin/blog/issues/1)
