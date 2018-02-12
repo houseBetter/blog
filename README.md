@@ -13,10 +13,10 @@
 
 ## 2018
 
-[2018-01-17 | vertical-align，今晚来我房间聊聊剧本](https://github.com/veedrin/blog/issues/3)
+[01-17 | vertical-align，今晚来我房间聊聊剧本](https://github.com/veedrin/blog/issues/3)
 
 ## 2017
 
-[2017-11-13 | 嗟乎原型链](https://github.com/veedrin/blog/issues/2)
+[11-13 | 嗟乎原型链](https://github.com/veedrin/blog/issues/2)
 
-[2017-10-31 | 下一任国家主席预测](https://github.com/veedrin/blog/issues/1)
+[10-31 | 下一任国家主席预测](https://github.com/veedrin/blog/issues/1)
