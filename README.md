@@ -17,6 +17,8 @@
 
 [2018-03-12 | 来聊个一像素的](https://github.com/veedrin/blog/issues/5)
 
+[2018-04-01 | 愚人节快乐](https://github.com/veedrin/blog/issues/6)
+
 ## 2017
 
 [2017-10-31 | 下一任国家主席预测](https://github.com/veedrin/blog/issues/1)
