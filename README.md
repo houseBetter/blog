@@ -24,13 +24,3 @@
 [2017-10-31 | 下一任国家主席预测](https://github.com/veedrin/blog/issues/1)
 
 [2017-11-13 | 嗟乎原型链](https://github.com/veedrin/blog/issues/2)
-
-## 关于我
-
-2014年6月26日毕业于 东北财经大学 工商管理学院 人力资源管理专业
-
-2017年6月23日第一次加入某项目组，入门web前端
-
-处女座
-
-JavaScript原教旨主义者
